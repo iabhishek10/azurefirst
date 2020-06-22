@@ -1,1 +1,0 @@
-https://github.com/iabhishek10/azurefirst.git
